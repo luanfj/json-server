@@ -1,0 +1,12 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "WHEY Isolate Black Series - Go Nutrition",
+      "slug": "whey-isolate-black-series-go-nutrition",
+      "details": "Quem pratica exercícios físicos regularmente, principalmente musculação e esportes de alto desempenho, tem como objetivo, geralmente, reduzir gordura corporal e aumentar massa magra para fins de definição. Nesses casos, consumir Whey Protein junto a uma dieta balanceada é extremamente benéfico para potencializar os resultados.<br /><br />Isso porque as proteínas são as principais responsáveis pelo crescimento e desenvolvimento muscular, e o suplemento Whey Protein é rico em valor proteico. Como muitos alimentos fontes desse nutriente, o Whey Protein Isolate - Black Series da GO Nutrition atua de forma natural no organismo, porém, com a diferença de ser bem mais eficiente e concentrado.",
+      "price": "R$ 125,10",
+      "image": "https://d2vq4s943o8cb4.cloudfront.net/Custom/Content/Products/14/55/14550227_whey-protein-isolate-black-series-go-nutrition-6862_m7_636929261986756273.png"
+    }
+  ]
+}
